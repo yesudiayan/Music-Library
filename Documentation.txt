@@ -1,0 +1,54 @@
+<-----------------------------------------Layout---------------------------------------------------->
+
+heading (top box)
+image for heading / logo
+drop down menu - left side
+1. Audio books
+2. Youtube
+3. Library
+4. Genre
+5. Playlist
+6. Theme
+7. Equalizer
+8. DriveMode
+9. Settings
+10. Signout
+
+
+Content
+ ||
+\  /
+ \/
+
+
+Library
+
+Links
+
+Social account links
+
+Likes
+
+Dislikes
+
+Top songs
+
+Most listened
+
+Least listened
+
+
+
+Wrestling Videos Link
+
+Horror Movie links
+
+<-------------------------------------------------------------------------------------------------------------->
+
+
+
+
+
+
+
+
