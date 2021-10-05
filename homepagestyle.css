@@ -1,24 +1,44 @@
-
+body {
+  background-color: #D3D3D3;
+}
 .top-panel {
   position: static;
-  margin-top: -5px;
-  margin-left: -5px;
+  padding: 10px;
+  margin-top: -8px;
+  margin-left: -8px;
   background-color: #010038;
-  border: 4px solid red;
+  border: 2px;
   color: white;
   text-align: center;
+  font-family: Helvetica;
 }
 
 .left-panel {
   height: 100%
   width: 30%;
-  margin-left: -5px;
-  background-color: #111D5E;
-  border: 4px solid red;
+  margin-left: -8px;
+  background-color: #010038;
+  border: 4px;
   color: yellow;
-  float: left;
+  position: fixed;
+  padding-bottom: 300px;
+  padding-right: 10px;
+
 }
 
 a {
   color:white
+}
+
+a:hover {
+ color: #D3D3D3;
+}
+
+.centerstage {
+  padding-left: 125px;
+}
+
+table {
+  background-color: #dc143c;
+  border: 2px solid black;
 }
